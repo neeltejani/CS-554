@@ -1,0 +1,21 @@
+{
+    "name": "neeltejanilab2",
+    "version": "1.0.0",
+    "description": "This is my lab 2",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js"
+    },
+    "author": "Neel Tejani",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^0.27.2",
+        "bluebird": "^3.7.2",
+        "blueimp-md5": "^2.19.0",
+        "express": "^4.18.1",
+        "flat": "^5.0.2",
+        "redis": "^4.3.1",
+        "util": "^0.12.4"
+    }
+}
